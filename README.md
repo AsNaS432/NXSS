@@ -26,6 +26,7 @@ node server/server.js
 ```
 http://localhost:5500/
 ```
+4. Запустите через liveServer - index.html
 
 ## Структура проекта
 
